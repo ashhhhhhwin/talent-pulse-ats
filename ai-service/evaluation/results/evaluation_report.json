@@ -1,0 +1,256 @@
+{
+  "skill_extraction": {
+    "per_resume": [
+      {
+        "true_positive": 8,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "expected": [
+          "graphql",
+          "jest",
+          "next.js",
+          "react",
+          "redux",
+          "rest apis",
+          "tailwind css",
+          "typescript"
+        ],
+        "predicted": [
+          "graphql",
+          "jest",
+          "next.js",
+          "react",
+          "redux",
+          "rest apis",
+          "tailwind css",
+          "typescript"
+        ],
+        "missed": [],
+        "extra": [],
+        "id": "priya_frontend",
+        "name": "Priya Sharma"
+      },
+      {
+        "true_positive": 10,
+        "false_positive": 1,
+        "false_negative": 0,
+        "precision": 90.91,
+        "recall": 100.0,
+        "f1": 95.24,
+        "expected": [
+          "amazon web services",
+          "docker",
+          "express",
+          "kafka",
+          "kubernetes",
+          "mongodb",
+          "node.js",
+          "postgresql",
+          "redis",
+          "rest apis"
+        ],
+        "predicted": [
+          "amazon web services",
+          "docker",
+          "express",
+          "kafka",
+          "kubernetes",
+          "mongodb",
+          "node.js",
+          "postgresql",
+          "redis",
+          "rest apis",
+          "sql"
+        ],
+        "missed": [],
+        "extra": [
+          "sql"
+        ],
+        "id": "rahul_backend",
+        "name": "Rahul Verma"
+      },
+      {
+        "true_positive": 6,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "expected": [
+          "excel",
+          "power bi",
+          "python",
+          "sql",
+          "statistics",
+          "tableau"
+        ],
+        "predicted": [
+          "excel",
+          "power bi",
+          "python",
+          "sql",
+          "statistics",
+          "tableau"
+        ],
+        "missed": [],
+        "extra": [],
+        "id": "ananya_analyst",
+        "name": "Ananya Nair"
+      },
+      {
+        "true_positive": 4,
+        "false_positive": 1,
+        "false_negative": 0,
+        "precision": 80.0,
+        "recall": 100.0,
+        "f1": 88.89,
+        "expected": [
+          "javascript",
+          "mongodb",
+          "node.js",
+          "react"
+        ],
+        "predicted": [
+          "java",
+          "javascript",
+          "mongodb",
+          "node.js",
+          "react"
+        ],
+        "missed": [],
+        "extra": [
+          "java"
+        ],
+        "id": "karthik_junior",
+        "name": "Karthik Iyer"
+      },
+      {
+        "true_positive": 9,
+        "false_positive": 0,
+        "false_negative": 0,
+        "precision": 100.0,
+        "recall": 100.0,
+        "f1": 100.0,
+        "expected": [
+          "amazon web services",
+          "continuous integration",
+          "docker",
+          "grafana",
+          "kubernetes",
+          "linux",
+          "prometheus",
+          "python",
+          "terraform"
+        ],
+        "predicted": [
+          "amazon web services",
+          "continuous integration",
+          "docker",
+          "grafana",
+          "kubernetes",
+          "linux",
+          "prometheus",
+          "python",
+          "terraform"
+        ],
+        "missed": [],
+        "extra": [],
+        "id": "sneha_devops",
+        "name": "Sneha Patel"
+      },
+      {
+        "true_positive": 11,
+        "false_positive": 1,
+        "false_negative": 0,
+        "precision": 91.67,
+        "recall": 100.0,
+        "f1": 95.65,
+        "expected": [
+          "amazon web services",
+          "docker",
+          "express",
+          "jest",
+          "mongodb",
+          "node.js",
+          "postgresql",
+          "react",
+          "redux",
+          "rest apis",
+          "typescript"
+        ],
+        "predicted": [
+          "amazon web services",
+          "docker",
+          "express",
+          "jest",
+          "mongodb",
+          "node.js",
+          "postgresql",
+          "react",
+          "redux",
+          "rest apis",
+          "sql",
+          "typescript"
+        ],
+        "missed": [],
+        "extra": [
+          "sql"
+        ],
+        "id": "meera_fullstack",
+        "name": "Meera Krishnan"
+      }
+    ],
+    "macro_average": {
+      "precision": 93.76,
+      "recall": 100.0,
+      "f1": 96.63
+    }
+  },
+  "ranking_default_weights": {
+    "mrr": 1.0,
+    "ndcg_at_5": 1.0,
+    "per_scenario_ndcg": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "mode": "offline_labelled_semantic",
+  "weight_sensitivity": [
+    {
+      "semantic": 0.5,
+      "skill": 0.3,
+      "experience": 0.15,
+      "mandatory": 0.05,
+      "mrr": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "semantic": 0.4,
+      "skill": 0.4,
+      "experience": 0.15,
+      "mandatory": 0.05,
+      "mrr": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "semantic": 0.6,
+      "skill": 0.25,
+      "experience": 0.1,
+      "mandatory": 0.05,
+      "mrr": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "semantic": 0.3,
+      "skill": 0.5,
+      "experience": 0.15,
+      "mandatory": 0.05,
+      "mrr": 1.0,
+      "ndcg_at_5": 1.0
+    }
+  ]
+}

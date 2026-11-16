@@ -1,0 +1,134 @@
+[
+  {
+    "id": "frontend_job",
+    "job": {
+      "title": "Senior Frontend Engineer",
+      "description": "Build scalable React applications with strong UX focus.",
+      "required_skills": ["React", "TypeScript", "Tailwind CSS", "Redux", "Jest", "REST APIs"],
+      "preferred_skills": ["Next.js", "GraphQL", "Storybook"],
+      "minimum_experience": 4
+    },
+    "candidates": [
+      {
+        "name": "Priya Sharma",
+        "skills": ["React", "TypeScript", "Tailwind CSS", "Redux", "Jest", "REST APIs", "Next.js", "GraphQL"],
+        "experience_years": 6,
+        "resume_text": "Senior frontend engineer with React, TypeScript, Redux, Jest, Tailwind CSS, Next.js, GraphQL experience.",
+        "semantic_score": 88,
+        "relevance": 2
+      },
+      {
+        "name": "Meera Krishnan",
+        "skills": ["React", "TypeScript", "Node.js", "Express", "Redux", "Jest", "REST APIs"],
+        "experience_years": 7,
+        "resume_text": "Full stack engineer with React, TypeScript, Redux, Jest, Node.js, Express.",
+        "semantic_score": 82,
+        "relevance": 2
+      },
+      {
+        "name": "Karthik Iyer",
+        "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "experience_years": 2,
+        "resume_text": "Junior developer with JavaScript, React, Node.js experience.",
+        "semantic_score": 62,
+        "relevance": 1
+      },
+      {
+        "name": "Rahul Verma",
+        "skills": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Docker", "AWS"],
+        "experience_years": 5,
+        "resume_text": "Backend engineer with Node.js, Express, MongoDB, AWS.",
+        "semantic_score": 45,
+        "relevance": 0
+      },
+      {
+        "name": "Sneha Patel",
+        "skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD"],
+        "experience_years": 4,
+        "resume_text": "DevOps engineer with AWS, Docker, Kubernetes.",
+        "semantic_score": 28,
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": "backend_job",
+    "job": {
+      "title": "Backend Engineer (Node.js)",
+      "description": "Design Node.js microservices and APIs.",
+      "required_skills": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Docker", "AWS"],
+      "preferred_skills": ["Kafka", "Redis", "Kubernetes"],
+      "minimum_experience": 3
+    },
+    "candidates": [
+      {
+        "name": "Rahul Verma",
+        "skills": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Docker", "AWS", "Redis", "Kubernetes", "Kafka"],
+        "experience_years": 5,
+        "resume_text": "Backend engineer with Node.js, Express, MongoDB, PostgreSQL, Docker, AWS, Redis, Kubernetes.",
+        "semantic_score": 91,
+        "relevance": 2
+      },
+      {
+        "name": "Meera Krishnan",
+        "skills": ["React", "TypeScript", "Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "AWS"],
+        "experience_years": 7,
+        "resume_text": "Full stack engineer with Node.js, Express, PostgreSQL, MongoDB, Docker, AWS.",
+        "semantic_score": 84,
+        "relevance": 2
+      },
+      {
+        "name": "Karthik Iyer",
+        "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+        "experience_years": 2,
+        "resume_text": "Junior developer with Node.js and MongoDB.",
+        "semantic_score": 58,
+        "relevance": 1
+      },
+      {
+        "name": "Priya Sharma",
+        "skills": ["React", "TypeScript", "Redux", "Jest"],
+        "experience_years": 6,
+        "resume_text": "Frontend engineer with React and TypeScript.",
+        "semantic_score": 38,
+        "relevance": 0
+      }
+    ]
+  },
+  {
+    "id": "data_analyst_job",
+    "job": {
+      "title": "Data Analyst",
+      "description": "Turn raw data into insights using SQL, Python, and visualization.",
+      "required_skills": ["SQL", "Python", "Tableau", "Excel", "Statistics", "Power BI"],
+      "preferred_skills": ["dbt", "Looker", "A/B Testing"],
+      "minimum_experience": 2
+    },
+    "candidates": [
+      {
+        "name": "Ananya Nair",
+        "skills": ["SQL", "Python", "Tableau", "Excel", "Statistics", "Power BI"],
+        "experience_years": 3,
+        "resume_text": "Data analyst with SQL, Python, Tableau, Excel, Statistics, Power BI.",
+        "semantic_score": 93,
+        "relevance": 2
+      },
+      {
+        "name": "Sneha Patel",
+        "skills": ["AWS", "Docker", "Python", "Linux"],
+        "experience_years": 4,
+        "resume_text": "DevOps engineer with Python and Linux.",
+        "semantic_score": 35,
+        "relevance": 1
+      },
+      {
+        "name": "Rahul Verma",
+        "skills": ["Node.js", "Express", "MongoDB", "PostgreSQL"],
+        "experience_years": 5,
+        "resume_text": "Backend engineer with PostgreSQL and MongoDB.",
+        "semantic_score": 22,
+        "relevance": 0
+      }
+    ]
+  }
+]

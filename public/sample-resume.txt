@@ -1,0 +1,16 @@
+# Sample Resume — Demo Candidate
+
+Name: Kavya Srinivasan
+Email: kavya.srinivasan@email.com
+Phone: +91 99887 66554
+Location: Bengaluru
+
+Summary:
+Frontend engineer with 5 years experience building React applications and design systems.
+
+Experience: 5 years
+Current Title: Senior Frontend Developer
+
+Skills: React, TypeScript, Tailwind CSS, Redux, Jest, Next.js, REST APIs, Storybook, GraphQL
+
+Education: B.Tech Computer Science — BITS Pilani

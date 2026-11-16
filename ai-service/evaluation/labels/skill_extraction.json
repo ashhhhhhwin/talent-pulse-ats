@@ -1,0 +1,38 @@
+[
+  {
+    "id": "priya_frontend",
+    "name": "Priya Sharma",
+    "resume_text": "Priya Sharma\n+91 98765 11101 | priya.sharma.demo@email.com | Bengaluru, India\n6 years of experience\nProfessional Summary\nSenior frontend engineer with 6 years building React design systems, TypeScript applications, and accessible UI at scale.\nSkills\nReact, TypeScript, Tailwind CSS, Redux, Jest, REST APIs, Next.js, GraphQL, Storybook\nExperience\nTechNova Solutions | Senior Frontend Engineer | 2021 – Present\n- Led React + TypeScript migration for customer portal\n- Built component library with Storybook and Jest test coverage\n- Collaborated with design on Tailwind CSS design tokens\nEducation\nB.Tech Computer Science — IIT Roorkee | 2018",
+    "expected_skills": ["React", "TypeScript", "Tailwind CSS", "Redux", "Jest", "REST APIs", "Next.js", "GraphQL"]
+  },
+  {
+    "id": "rahul_backend",
+    "name": "Rahul Verma",
+    "resume_text": "Rahul Verma\nBackend engineer specializing in Node.js microservices, Express APIs, MongoDB, PostgreSQL, and AWS cloud deployments.\nSkills\nNode.js, Express, MongoDB, PostgreSQL, Docker, AWS, Redis, Kubernetes, REST APIs, Kafka\nExperience\nCloudPay Systems | Backend Engineer | 2020 – Present\n- Built Node.js + Express payment APIs\n- Deployed services on AWS with Docker and Kubernetes",
+    "expected_skills": ["Node.js", "Express", "MongoDB", "PostgreSQL", "Docker", "AWS", "Redis", "Kubernetes", "REST APIs", "Kafka"]
+  },
+  {
+    "id": "ananya_analyst",
+    "name": "Ananya Nair",
+    "resume_text": "Ananya Nair\nData analyst with strong SQL, Python, Tableau, and Power BI skills.\nSkills\nSQL, Python, Tableau, Excel, Statistics, Power BI, A/B Testing, dbt, Looker\nExperience\nInsight Analytics | Data Analyst | 2022 – Present\n- Built Tableau dashboards\n- Wrote SQL queries and Python scripts",
+    "expected_skills": ["SQL", "Python", "Tableau", "Excel", "Statistics", "Power BI"]
+  },
+  {
+    "id": "karthik_junior",
+    "name": "Karthik Iyer",
+    "resume_text": "Karthik Iyer\nEarly-career developer with JavaScript, React, and Node.js project experience.\nSkills\nJavaScript, React, HTML, CSS, Node.js, MongoDB, Git\nExperience\nFreelance Projects | Junior Developer | 2023 – Present\n- Built small React apps",
+    "expected_skills": ["JavaScript", "React", "Node.js", "MongoDB"]
+  },
+  {
+    "id": "sneha_devops",
+    "name": "Sneha Patel",
+    "resume_text": "Sneha Patel\nDevOps engineer with AWS, Docker, Kubernetes, Terraform, and CI/CD pipeline expertise.\nSkills\nAWS, Docker, Kubernetes, Terraform, CI/CD, Linux, Prometheus, Grafana, Python",
+    "expected_skills": ["AWS", "Docker", "Kubernetes", "Terraform", "CI/CD", "Linux", "Prometheus", "Grafana", "Python"]
+  },
+  {
+    "id": "meera_fullstack",
+    "name": "Meera Krishnan",
+    "resume_text": "Meera Krishnan\nFull stack engineer with React, Node.js, TypeScript, PostgreSQL, Docker, and AWS.\nSkills\nReact, TypeScript, Node.js, Express, PostgreSQL, MongoDB, Docker, AWS, Redux, Jest, REST APIs",
+    "expected_skills": ["React", "TypeScript", "Node.js", "Express", "PostgreSQL", "MongoDB", "Docker", "AWS", "Redux", "Jest", "REST APIs"]
+  }
+]
